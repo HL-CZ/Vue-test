@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_test"]=self["webpackChunkvue_test"]||[]).push([[415],{2115:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=t(6768),s=t(4232);const r={class:"News"};function a(e,n,t,a,c,l){return(0,u.uX)(),(0,u.CE)("div",r,[n[0]||(n[0]=(0,u.Lk)("h3",null,"Cat News",-1)),(0,u.Lk)("p",null,(0,s.v_)(e.$route.params.name),1)])}var c={name:"News"},l=t(1241);const v=(0,l.A)(c,[["render",a]]);var f=v}}]);
+//# sourceMappingURL=details.ae3ca2a1.js.map
